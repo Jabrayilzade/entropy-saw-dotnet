@@ -1,0 +1,6 @@
+C:\Users\PREDATOR\Documents\Visual programming\Entropy-SAW\obj\Debug\Entropy-SAW.csprojAssemblyReference.cache
+C:\Users\PREDATOR\Documents\Visual programming\Entropy-SAW\obj\Debug\Entropy-SAW.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\Documents\Visual programming\Entropy-SAW\bin\Debug\Entropy_SAW.exe
+C:\Users\PREDATOR\Documents\Visual programming\Entropy-SAW\bin\Debug\Entropy_SAW.pdb
+C:\Users\PREDATOR\Documents\Visual programming\Entropy-SAW\obj\Debug\Entropy_SAW.exe
+C:\Users\PREDATOR\Documents\Visual programming\Entropy-SAW\obj\Debug\Entropy_SAW.pdb
